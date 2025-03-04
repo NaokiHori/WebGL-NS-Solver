@@ -4,8 +4,6 @@
 [![Last Commit](https://img.shields.io/github/last-commit/NaokiHori/WebGL-NS-Solver/main)](https://github.com/NaokiHori/WebGL-NS-Solver/commits/main)
 [![CI](https://github.com/NaokiHori/WebGL-NS-Solver/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/NaokiHori/WebGL-NS-Solver/actions/workflows/ci.yml)
 
-**UNDER ACTIVE DEVELOPMENT**
-
 A toy Navier-Stokes solver powered by the GPU, designed to run directly in web browsers.
 
 ## Requirements
@@ -15,5 +13,5 @@ A toy Navier-Stokes solver powered by the GPU, designed to run directly in web b
 
 ## Caveat
 
-This is really a toy solver to create something "practical" on GPU.
+This is really a toy solver to create something on GPU.
 The performance is far from being optimal (mainly due to the limitations of WebGL2).
